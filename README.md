@@ -23,6 +23,6 @@ As lovely as sagiri, based on [hexo-theme-DIYsay](https://github.com/DIYgod/hexo
 ## Author
 
 **hexo-theme-sagiri-x** © [DIYsay](https://github.com/DIYsay), Released under the [MIT](./LICENSE) License.<br>
-Authored and maintained by DIYgod with help from contributors ([list](https://github.com/DIYgod/hexo-theme-sagiri/contributors)).
+Authored and maintained by DIYgod with help from contributors ([list](https://github.com/DIYsay/hexo-theme-DIYsay/graphs/contributors)).
 
 > Blog [@DIYsay](https://diysay.cn) · GitHub [@DIYsay](https://github.com/DIYsay) 
